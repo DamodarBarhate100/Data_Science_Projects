@@ -1,4 +1,4 @@
-# Data_Analysis_Projects
+# Data_Science_Projects
 This repository serves as a portfolio showcasing my ability to execute the full data analysis lifecycle. Each project includes data cleaning, transformation, and Exploratory Data Analysis. Key skills demonstrated across these projects include Pandas operations, statistical modeling, and creating visualizations with Matplotlib and Seaborn.
 
 ## Libraries
